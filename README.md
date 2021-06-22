@@ -30,3 +30,8 @@ A list of technologies used within the project:
 * [Node](https://example.com): Version 15
 * [BootStrap](https://example.com): BootStarp 4
 
+Run application 
+
+```
+mvn spring-boot:run 
+``` 
